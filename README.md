@@ -229,11 +229,13 @@ Or copy/paste and run them one at a time (my personal choice):
 
 ![Copy/Paste one by one](assets/screenshots/sc_023_02.png)
 
+*Note: It really doesn't matter how you choose to copy/paste; it amounts to the same thing in the end, as you can probably tell by the images.*
+
 ## Install macOS in VM
 After all this set up, it's FINALLY time to install the OS in the VM.
 
 ### Step 1: Launch VM
-Open **VirtualBox** and click *Start** or double-click your VM to launch it. If you've done all the steps above correctly, it should open up and show the Apple logo, some intimidating scrolling text, and a loading bar. That's perfectly normal. It will eventually boot up to a language selection screen.
+Open **VirtualBox** and click **Start** or double-click your VM to launch it. If you've done all the steps above correctly, it should open up and show the Apple logo, some intimidating scrolling text, and a loading bar. That's perfectly normal. It will eventually boot up to a language selection screen.
 
 ![macBS First Launch](assets/screenshots/sc_024.png)
 
