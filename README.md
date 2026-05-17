@@ -12,7 +12,7 @@ Before proceeding, if you are going to follow along with this, make sure that vi
 
 
 ## Prerequisites
-If you're sill here, the it must mean that your machine supports **Virtualization** and it's **Enabled**! In which case, proceed. Also, hope you got a few hours to spare. (foreshadowing...)
+If you're sill here, then it must mean that your machine supports **Virtualization** and it's **Enabled**! In which case, proceed. Also, hope you got a few hours to spare. (foreshadowing...)
 
 ### Step 1: Install **VirtualBox** and **VirtualBox Extention Pack**
 If you already have the most recent version of **VirtualBox** installed (7.2.8 at the time of writing this) as well as it's corresponding **Extenion Pack**, you may skip his step. Otherwise, you may continue.
