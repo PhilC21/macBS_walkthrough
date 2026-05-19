@@ -26,7 +26,7 @@ Under **VirtualBox Platform Packages**, click **Windows hosts** (assuming you're
 
 ![VirtualBox Platform Packages](assets/screenshots/sc_002.png)
 
-Once the download is finished, locate the file and run it. If you get a "**Do you want to allow this app to make changes to your device?**" screen (this will pop-up a lot through out his process), click **Yes** to continue. This will open he VirtualBox Installer wizard.
+Once the download is finished, locate the file and run it. If you get a "**Do you want to allow this app to make changes to your device?**" screen (this will pop-up a lot through out this process), click **Yes** to continue. This will open he VirtualBox Installer wizard.
 
 ![VirtualBox Installer](assets/screenshots/sc_003.png)
 
